@@ -21,8 +21,9 @@ I'm Lucas Cordeiro, currently working as Engineering Service Buyer in Huawei (20
 You can find me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cordeirolucas42/)](https://www.linkedin.com/in/cordeirolucas42/)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-success?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/cordeirolucas42)](https://www.hackerrank.com/cordeirolucas42)
-[![DEV.to Badge](https://img.shields.io/badge/-DEV%20Blog-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/cordeirolucas42)](https://dev.to/cordeirolucas42)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/cord_dev_)](https://twitter.com/cord_dev_)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/cordeirolucas42)](https://www.hackerrank.com/cordeirolucas42)
+[![DEV.to Badge](https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/cordeirolucas42)](https://dev.to/cordeirolucas42)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-267ACA?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:cordeirolucas42@hotmail.com)](mailto:cordeirolucas42@hotmail.com)
 
 
