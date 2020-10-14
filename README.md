@@ -21,7 +21,8 @@ I'm Lucas Cordeiro, currently working as Engineering Service Buyer in Huawei (20
 You can find me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cordeirolucas42/)](https://www.linkedin.com/in/cordeirolucas42/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cordeirolucas42@gmail.com)](mailto:cordeirolucas42@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-success?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/cordeirolucas42)](https://www.hackerrank.com/cordeirolucas42)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-267ACA?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:cordeirolucas42@hotmail.com)](mailto:cordeirolucas42@hotmail.com)
 
 <!--
 **cordeirolucas42/cordeirolucas42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
