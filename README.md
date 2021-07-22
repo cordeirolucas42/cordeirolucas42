@@ -9,7 +9,7 @@ I'm Lucas Cordeiro (he/him), currently working as Engineering Service Buyer in H
 - *Diferenciais:* Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
 #### 💻 **Main projects:**
-- [desobjetos](https://github.com/cordeirolucas42/desobjetos) - Virtual Store - HTML, CSS, Bootstrap, Surge
+- [Arigathanks!](https://github.com/cordeirolucas42/desobjetos) - Virtual Store - HTML, CSS, Bootstrap, Surge.sh
 - [YelpCamp](https://github.com/cordeirolucas42/YelpCamp) - Campgrounds Evaluation Page - HTML, CSS, Bootstrap, Express.js, MongoDB, Heroku
 - [avalobot](https://github.com/cordeirolucas42/avalovara-bot) - Twitter Bot - Node.js, PostgreSQL, Heroku
 - [Relógio Heckethorn](https://github.com/cordeirolucas42/relogio-heckethorn) - Special Clock - React.js, Next.js, Vercel
