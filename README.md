@@ -9,10 +9,10 @@ I'm Lucas Cordeiro (he/him), currently working as Buyer in Huawei (2019-2021), g
 - *Diferenciais:* Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
 #### 💻 **Main projects:**
-- [Arigathanks!](https://github.com/cordeirolucas42/desobjetos) - Virtual Store - HTML, CSS, Bootstrap, Surge.sh
+- [Fala Voz](https://github.com/cordeirolucas42/fala-voz) - Course Divulgation Page - React.js, Gatsby, Gatsby Cloud
+- [Arigathanks!](https://github.com/cordeirolucas42/desobjetos) - Virtual Store Prototype - HTML, CSS, Bootstrap, Surge.sh
 - [YelpCamp](https://github.com/cordeirolucas42/YelpCamp) - Campgrounds Evaluation Page - HTML, CSS, Bootstrap, Express.js, MongoDB, Heroku
-- [avalobot](https://github.com/cordeirolucas42/avalovara-bot) - Twitter Bot - Node.js, PostgreSQL, Heroku
-- [Relógio Heckethorn](https://github.com/cordeirolucas42/relogio-heckethorn) - Special Clock - React.js, Next.js, Vercel
+- [avalobot](https://github.com/cordeirolucas42/avalovara-bot) - Twitter Bot - Node.js, PostgreSQL, Hero
 
 #### 📫 **You can find me at:**
 
