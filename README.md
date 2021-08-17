@@ -9,6 +9,7 @@ I'm Lucas Cordeiro (he/him), currently working as Buyer in Huawei (2019-2021), g
 - *Diferenciais:* Cultura DevOps; Jenkings e Docker; Kubernetes; Conceitos básicos de Azure; Conceitos básicos de AWS; React Native; NoSQL
 
 #### 💻 **Main projects:**
+- [Routes API](https://github.com/cordeirolucas42/rotas-api) - Routes API - FastAPI, Python, Deta
 - [Device Mananger](https://device-manager.d2v1ztj78y6nty.amplifyapp.com/) - Device Manager Prototype - Angular, Node.js, MySQL, REST, AWS Aplify, EC2, RDS
 - [Fala Voz](https://github.com/cordeirolucas42/fala-voz) - Course Divulgation Page - React.js, Gatsby, Gatsby Cloud
 - [YelpCamp](https://github.com/cordeirolucas42/YelpCamp) - Campgrounds Evaluation Page - HTML, CSS, Bootstrap, Express.js, MongoDB, Heroku
