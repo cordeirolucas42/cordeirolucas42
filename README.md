@@ -1,6 +1,6 @@
 ### Hello, World! 😄
 
-I'm Lucas Cordeiro (he/him), currently working as Buyer in Huawei (2019-2021), graduated in Electrical Engineering (2012-2017) and currently improving my knowledge in Software Engineering, with focus in Web Development. 
+I'm Lucas Cordeiro (he/him), Software Developer, graduated in Electrical Engineering (2012-2017) and currently working at Raro Labs. 
 
 #### 👊🏼 **Currently in Gama Academy XP Program - Fullstack Web Development**
 - *Essencial Skills:* Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
