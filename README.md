@@ -3,14 +3,13 @@
 I'm Lucas Cordeiro (he/him), Software Developer, graduated in Electrical Engineering (2012-2017) and currently working at Raro Labs. 
 
 #### 👨‍💻 **Main skills:**
-
-- *Front End:* HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
 - *Back End:* Fundamentos de Node; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
+- *Front End:* HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
 - *Soft Skills:* Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
 
 #### 💻 **Main projects:**
 - [Motofast](https://motofast.vercel.app/) - Final project for [Gama Academy XP Program](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) - Node, Express, PostgreSQL, Next, React, Bootstrap
-- [Device Mananger](https://device-manager.d2v1ztj78y6nty.amplifyapp.com/) - Device Manager Prototype - Angular, Node.js, MySQL, REST, AWS Aplify, EC2, RDS
+- [Device Mananger]([https://device-manager.d2v1ztj78y6nty.amplifyapp.com](https://github.com/cordeirolucas42/device-manager)) - Device Manager Prototype - Angular, Node.js, MySQL, REST, AWS Aplify, EC2, RDS
 - [Fala Voz](https://github.com/cordeirolucas42/fala-voz) - Course Divulgation Page - React.js, Gatsby, Gatsby Cloud
 - [YelpCamp](https://github.com/cordeirolucas42/YelpCamp) - Campgrounds Evaluation Page - HTML, CSS, Bootstrap, Express.js, MongoDB, Heroku
 - [avalobot](https://github.com/cordeirolucas42/avalovara-bot) - Twitter Bot - Node.js, PostgreSQL, Hero
