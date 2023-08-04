@@ -1,6 +1,6 @@
 ### Hello, World! 😄
 
-I'm Lucas Cordeiro (he/him), Software Developer, graduated in Electrical Engineering (2012-2017) and currently working at Raro Labs. 
+I'm Lucas Cordeiro (he/him), Software Developer
 
 #### 👨‍💻 **Main skills:**
 - *Back End:* Node.js; Nest.js; TypeScript; JavaScript; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); REST API; Banco de Dados SQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
