@@ -1,9 +1,9 @@
 ### Hello, World! 😄
 
-I'm Lucas Cordeiro (he/him), Software Developer
+I'm Lucas Cordeiro (he/him), Software Engineer
 
 #### 👨‍💻 **Main skills:**
-- *Back End:* Node.js; Nest.js; TypeScript; JavaScript; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); REST API; Banco de Dados SQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
+- *Back End:* Go, Node.js; Nest.js; TypeScript; JavaScript; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); REST API; Banco de Dados SQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
 - *Front End:* HTML; CSS; Bootstrap e Material Design; Typescript; JavaScript avançado; React.
 - *Soft Skills:* Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
 
@@ -39,7 +39,3 @@ I'm Lucas Cordeiro (he/him), Software Developer
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cordeirolucas42&show_icons=true&locale=en" alt="cordeirolucas42" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cordeirolucas42&" alt="cordeirolucas42" /></p>
